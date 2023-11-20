@@ -1,10 +1,10 @@
 # Charity Deep Learning Model Overview
 
-Some charity fundraisers are successful and others not. Why? Is it about the charty type, amount requested, use case, or something else?
+Some charity fundraisers are successful and others not. Why? Is it about the charity type, amount requested, use case, or something else?
 
 By creating a deep learning neural network, we hope to create a model which predicts a charity's fundraising success using several criteria.
 
-And by better understanding why some charitites are more successul fundraisers, perhaps other charities can learn a lesson from this data.
+And by better understanding why some charities are more successful fundraisers, perhaps other charities can learn a lesson from this data.
 
 ## The Data
 
